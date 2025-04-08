@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there 👋 I'm Ruchita Lawand
 
-<!--
-**ruchitalawand/ruchitalawand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 3.6+ Years of Experience | Python Developer | Full Stack | Robot Framework | C++ | Automation | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack**
+- 💻 Languages: Python, C++, JavaScript, HTML/CSS
+- 🧪 Automation: Robot Framework, Selenium, PyTest
+- ⚙️ DevOps: Docker, GitHub Actions, CI/CD
+- 🌐 Web: Django, FastAPI, React
+- 🤖 Chatbots: Rasa, Dialogflow, Microsoft Bot Framework
+- ☁️ Cloud: AWS, Azure
+- 📊 Monitoring: Prometheus, Grafana
+
+---
+
+📌 **Highlighted Projects**
+- [🔧 Vehicle Feature Testing with Robot Framework](https://github.com/ruchitalawand/robot-vehicle-testing)
+- [🤖 Part Classification Chatbot (NLP)](https://github.com/ruchitalawand/part-classification-chatbot)
+- [🌐 Full Stack Vehicle Management System](https://github.com/ruchitalawand/vehicle-management-system)
+- [📊 Django Admin Dashboard with Reports](https://github.com/ruchitalawand/django-admin-dashboard)
+
+---
+
+📫 **Reach out to collaborate or hire!**
+[LinkedIn](http://linkedin.com/in/ruchita-lawand-1335571b9) | Email: ruchitalawand@gmail.com
