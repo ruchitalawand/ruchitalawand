@@ -20,7 +20,7 @@
 - [🤖 Part Classification Chatbot (NLP)](https://github.com/ruchitalawand/part-classification-chatbot)
 - [🌐 Full Stack Vehicle Management System](https://github.com/ruchitalawand/vehicle-management-system)
 - [📊 Django Admin Dashboard with Reports](https://github.com/ruchitalawand/django-admin-dashboard)
-- [AI-Powered Predictive Maintenance for Vehicles] 
+- AI-Powered-Predictive-Maintenance-for-Vehicles [AI-Powered Predictive Maintenance for Vehicles] 
 
 ---
 
