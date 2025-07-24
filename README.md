@@ -21,6 +21,7 @@
 - [🌐 Full Stack Vehicle Management System](https://github.com/ruchitalawand/vehicle-management-system)
 - [📊 Django Admin Dashboard with Reports](https://github.com/ruchitalawand/django-admin-dashboard)
 - [AI-Powered Predictive Maintenance for Vehicles](https://github.com/ruchitalawand/AI-Powered-Predictive-Maintenance-for-Vehicles)
+- [AI-Powered Resume Screening Tool](https://github.com/ruchitalawand/AI-Powered-Resume-Screening-Tool)
 
 ---
 
