@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ruchita Lawand
 
-💼 3.6+ Years of Experience | Python Developer | Full Stack | Robot Framework | C++ | Automation | AI/ML Enthusiast
+💼 3.11+ Years of Experience | Python Developer | Full Stack | Robot Framework | C++ | Automation | AI/ML Enthusiast
 
 ---
 
